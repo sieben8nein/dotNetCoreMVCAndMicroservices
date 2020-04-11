@@ -1,0 +1,17 @@
+{
+  "ReRoutes": [
+    {
+      "DownstreamPathTemplate": "/api/user",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "userservice",
+          "Port": 80
+        }
+      ],
+      "UpstreamPathTemplate": "/api/user"
+    }
+  ],
+  "GlobalConfiguration": {
+  }
+}

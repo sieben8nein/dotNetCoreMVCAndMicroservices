@@ -1,0 +1,30 @@
+{
+  "ReRoutes": [
+    {
+      "DownstreamPathTemplate": "/api/user/",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "userservice",
+          "Port": 80
+        }
+      ],
+      "UpstreamPathTemplate": "/user/",
+      "UpstreamHttpMethod": [ "POST", "PUT", "GET" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/note/",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "noteservice",
+          "Port": 80
+        }
+      ],
+      "UpstreamPathTemplate": "/note/",
+      "UpstreamHttpMethod": [ "POST", "PUT", "GET" ]
+    }
+  ],
+  "GlobalConfiguration": {
+  }
+}

@@ -1,0 +1,80 @@
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\bin\Debug\appsettings.Development.json
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\bin\Debug\appsettings.json
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\bin\Debug\Properties\launchSettings.json
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\bin\Debug\UserService.exe
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\bin\Debug\UserService.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\bin\Debug\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\bin\Debug\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\bin\Debug\MongoDB.Driver.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\bin\Debug\MongoDB.Bson.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\bin\Debug\Swashbuckle.AspNetCore.Swagger.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\bin\Debug\Microsoft.OpenApi.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\bin\Debug\MongoDB.Driver.Core.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\bin\Debug\MongoDB.Libmongocrypt.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\bin\Debug\DnsClient.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\bin\Debug\SharpCompress.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\bin\Debug\UserService.pdb
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\obj\Debug\docker-compose.dcprojAssemblyReference.cache
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\obj\Debug\docker-compose.dcproj.CopyComplete
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\bin\Debug\NoteService.exe
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\bin\Debug\NoteService.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\bin\Debug\NoteService.pdb
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\bin\Debug\libman.json
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\bin\Debug\Confluent.Kafka.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\bin\Debug\APIGateway.exe
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\bin\Debug\APIGateway.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\bin\Debug\Ocelot.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\bin\Debug\Newtonsoft.Json.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\bin\Debug\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\bin\Debug\FluentValidation.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\bin\Debug\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\bin\Debug\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\bin\Debug\Microsoft.AspNetCore.JsonPatch.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\bin\Debug\Newtonsoft.Json.Bson.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\bin\Debug\APIGateway.pdb
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\bin\Debug\configuration\configuration.json
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\bin\Debug\ocelot.json
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\bin\Debug\appsettings.Development.json
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\bin\Debug\appsettings.json
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\bin\Debug\Properties\launchSettings.json
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\bin\Debug\libman.json
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\bin\Debug\configuration\configuration.json
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\bin\Debug\ocelot.json
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\bin\Debug\UserService.exe
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\bin\Debug\NoteService.exe
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\bin\Debug\APIGateway.exe
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\bin\Debug\APIGateway.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\bin\Debug\NoteService.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\bin\Debug\UserService.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\bin\Debug\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\bin\Debug\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\bin\Debug\MongoDB.Driver.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\bin\Debug\MongoDB.Bson.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\bin\Debug\Confluent.Kafka.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\bin\Debug\Swashbuckle.AspNetCore.Swagger.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\bin\Debug\Microsoft.OpenApi.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\bin\Debug\MongoDB.Driver.Core.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\bin\Debug\Ocelot.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\bin\Debug\MongoDB.Libmongocrypt.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\bin\Debug\DnsClient.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\bin\Debug\SharpCompress.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\bin\Debug\Newtonsoft.Json.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\bin\Debug\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\bin\Debug\FluentValidation.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\bin\Debug\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\bin\Debug\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\bin\Debug\Microsoft.AspNetCore.JsonPatch.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\bin\Debug\Newtonsoft.Json.Bson.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\bin\Debug\UserService.pdb
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\bin\Debug\NoteService.pdb
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\bin\Debug\APIGateway.pdb
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\obj\Debug\docker-compose.dcprojAssemblyReference.cache
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\obj\Debug\docker-compose.dcproj.CopyComplete

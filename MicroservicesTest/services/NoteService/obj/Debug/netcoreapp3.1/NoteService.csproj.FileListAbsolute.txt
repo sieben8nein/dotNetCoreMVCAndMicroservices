@@ -1,0 +1,248 @@
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\appsettings.json
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\NoteService.exe
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\obj\Debug\netcoreapp3.1\NoteService.AssemblyInfoInputs.cache
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\obj\Debug\netcoreapp3.1\NoteService.AssemblyInfo.cs
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\obj\Debug\netcoreapp3.1\NoteService.RazorTargetAssemblyInfo.cache
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\obj\Debug\netcoreapp3.1\staticwebassets\NoteService.StaticWebAssets.Manifest.cache
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\obj\Debug\netcoreapp3.1\staticwebassets\NoteService.StaticWebAssets.xml
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\NoteService.deps.json
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\NoteService.runtimeconfig.json
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\NoteService.runtimeconfig.dev.json
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\NoteService.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\NoteService.pdb
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\obj\Debug\netcoreapp3.1\NoteService.csproj.CopyComplete
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\obj\Debug\netcoreapp3.1\NoteService.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\obj\Debug\netcoreapp3.1\NoteService.pdb
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\obj\Debug\netcoreapp3.1\NoteService.genruntimeconfig.cache
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\DnsClient.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\SharpCompress.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\libman.json
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\Confluent.Kafka.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\alpine-librdkafka.so
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\centos7-librdkafka.so
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\debian9-librdkafka.so
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\librdkafka.so
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\librdkafka.dylib
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\librdkafka.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\librdkafkacpp.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\libzstd.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\msvcp120.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\msvcr120.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\zlib.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\librdkafka.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\librdkafkacpp.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\libzstd.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\msvcp120.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\msvcr120.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\zlib.dll
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\obj\Debug\netcoreapp3.1\NoteService.csproj.CoreCompileInputs.cache
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\obj\Debug\netcoreapp3.1\NoteService.MvcApplicationPartsAssemblyInfo.cs
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\obj\Debug\netcoreapp3.1\NoteService.MvcApplicationPartsAssemblyInfo.cache
+D:\OneDrive - Syddansk Universitet\SDU\Work\Experimental\MicroservicesTest\services\NoteService\obj\Debug\netcoreapp3.1\NoteService.csprojAssemblyReference.cache
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\libman.json
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\NoteService.exe
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\NoteService.deps.json
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\NoteService.runtimeconfig.json
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\NoteService.runtimeconfig.dev.json
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\NoteService.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\NoteService.pdb
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\Confluent.Kafka.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\DnsClient.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\SharpCompress.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\alpine-librdkafka.so
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\centos7-librdkafka.so
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\debian9-librdkafka.so
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\librdkafka.so
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\librdkafka.dylib
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\librdkafka.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\librdkafkacpp.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\libzstd.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\msvcp120.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\msvcr120.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\zlib.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\librdkafka.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\librdkafkacpp.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\libzstd.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\msvcp120.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\msvcr120.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\zlib.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\obj\Debug\netcoreapp3.1\NoteService.csprojAssemblyReference.cache
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\obj\Debug\netcoreapp3.1\NoteService.csproj.CoreCompileInputs.cache
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\obj\Debug\netcoreapp3.1\NoteService.MvcApplicationPartsAssemblyInfo.cs
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\obj\Debug\netcoreapp3.1\NoteService.MvcApplicationPartsAssemblyInfo.cache
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\obj\Debug\netcoreapp3.1\NoteService.AssemblyInfoInputs.cache
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\obj\Debug\netcoreapp3.1\NoteService.AssemblyInfo.cs
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\obj\Debug\netcoreapp3.1\NoteService.RazorTargetAssemblyInfo.cache
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\obj\Debug\netcoreapp3.1\NoteService.csproj.CopyComplete
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\obj\Debug\netcoreapp3.1\staticwebassets\NoteService.StaticWebAssets.Manifest.cache
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\obj\Debug\netcoreapp3.1\staticwebassets\NoteService.StaticWebAssets.xml
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\obj\Debug\netcoreapp3.1\NoteService.dll
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\obj\Debug\netcoreapp3.1\NoteService.pdb
+D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService\obj\Debug\netcoreapp3.1\NoteService.genruntimeconfig.cache

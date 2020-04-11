@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Joe Smith",
+    "address": "Heinrichsweg 3",
+    "contact": "6234572"
+  },
+  {
+    "id": 2,
+    "name": "Jen Ford",
+    "address": "Jensevej 23",
+    "contact": "23457245"
+  },
+  {
+    "id": 3,
+    "name": "Ford Prefect",
+    "address": "Lone Avenue 64",
+    "contact": "5648235"
+  }
+]

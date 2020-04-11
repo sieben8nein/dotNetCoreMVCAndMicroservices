@@ -1,0 +1,91 @@
+version: '3.4'
+
+services:
+  userservice:
+    image: userservice:latest
+    container_name: userservice
+    hostname: userservice
+    restart: always
+    build:
+      context: .
+      dockerfile: services/UserService/Dockerfile
+    environment:
+      MongoDB__Host: mongodb
+      MongoDB__Port: 27017
+    depends_on:
+      - mongodb
+      - kafka
+
+
+
+  mongodb:
+    image: mongo
+    container_name: mongo
+    restart: always
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: root
+      MONGO_INITDB_ROOT_PASSWORD: example
+    ports:
+      - 27018:27017
+
+  noteservice:
+    image: noteservice:latest
+    restart: always
+    container_name: noteservice
+    hostname: noteservice
+    build:
+      context: .
+      dockerfile: services/NoteService/Dockerfile
+    environment:
+      MongoDB__Host: mongodb
+      MongoDB__Port: 27017
+      Kafka__BootstrapServers: kafka:9092
+    depends_on:
+      - mongodb
+      - kafka
+
+  
+  zookeeper:
+    image: 'bitnami/zookeeper:3'
+    ports:
+      - '2181:2181'
+    volumes:
+      - 'zookeeper_data:/bitnami'
+    environment:
+      - ALLOW_ANONYMOUS_LOGIN=yes
+
+
+  kafka:
+    image: 'bitnami/kafka:2'
+    ports:
+      - '9092:9092'
+    volumes:
+      - 'kafka_data:/bitnami'
+    environment:
+      - KAFKA_CFG_ZOOKEEPER_CONNECT=zookeeper:2181
+      - ALLOW_PLAINTEXT_LISTENER=yes
+    depends_on:
+      - zookeeper
+
+
+  apigateway:
+    image: ${DOCKER_REGISTRY-}apigateway
+    container_name: apigateway
+    build:
+      context: .
+      dockerfile: APIGateway/Dockerfile
+    depends_on:
+      - userservice
+      - noteservice
+
+networks:
+  dev:
+    driver: bridge
+  database:
+    driver: bridge
+
+volumes:
+  zookeeper_data:
+    driver: local
+  kafka_data:
+    driver: local

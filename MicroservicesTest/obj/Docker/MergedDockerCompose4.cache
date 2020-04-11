@@ -1,0 +1,178 @@
+networks:
+  database:
+    driver: bridge
+  dev:
+    driver: bridge
+services:
+  apigateway:
+    build:
+      context: D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest
+      dockerfile: APIGateway/Dockerfile
+      labels:
+        com.microsoft.created-by: visual-studio
+        com.microsoft.visual-studio.project-name: APIGateway
+      target: base
+    container_name: apigateway
+    depends_on:
+    - noteservice
+    - userservice
+    entrypoint: tail -f /dev/null
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_HTTPS_PORT: '5001'
+      ASPNETCORE_HTTP_PORT: '8083'
+      ASPNETCORE_LOGGING__CONSOLE__DISABLECOLORS: "true"
+      ASPNETCORE_URLS: https://+:443;http://+:80
+      DOTNET_USE_POLLING_FILE_WATCHER: '1'
+      NUGET_FALLBACK_PACKAGES: /root/.nuget/fallbackpackages
+    image: apigateway:dev
+    labels:
+      com.microsoft.visualstudio.debuggee.arguments: ' --additionalProbingPath /root/.nuget/packages
+        --additionalProbingPath /root/.nuget/fallbackpackages  "/app/bin/Debug/netcoreapp3.1/APIGateway.dll"'
+      com.microsoft.visualstudio.debuggee.killprogram: /bin/sh -c "if PID=$$(pidof
+        dotnet); then kill $$PID; fi"
+      com.microsoft.visualstudio.debuggee.program: dotnet
+      com.microsoft.visualstudio.debuggee.workingdirectory: /app
+    ports:
+    - published: 8083
+      target: 80
+    - published: 5001
+      target: 443
+    tty: true
+    volumes:
+    - D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\APIGateway:/app:rw
+    - C:\Users\Morph\vsdbg\vs2017u5:/remote_debugger:rw
+    - C:\Users\Morph\AppData\Roaming\ASP.NET\Https:/root/.aspnet/https:ro
+    - C:\Users\Morph\AppData\Roaming\Microsoft\UserSecrets:/root/.microsoft/usersecrets:ro
+    - C:\Program Files\dotnet\sdk\NuGetFallbackFolder:/root/.nuget/fallbackpackages:ro
+    - C:\Users\Morph\.nuget\packages:/root/.nuget/packages:ro
+    - D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest:/src:rw
+  kafka:
+    depends_on:
+    - zookeeper
+    environment:
+      ALLOW_PLAINTEXT_LISTENER: "yes"
+      KAFKA_CFG_ZOOKEEPER_CONNECT: zookeeper:2181
+    image: bitnami/kafka:2
+    ports:
+    - published: 9092
+      target: 9092
+    volumes:
+    - kafka_data:/bitnami:rw
+  mongodb:
+    container_name: mongo
+    environment:
+      MONGO_INITDB_ROOT_PASSWORD: example
+      MONGO_INITDB_ROOT_USERNAME: root
+    image: mongo
+    ports:
+    - published: 27018
+      target: 27017
+    restart: always
+  noteservice:
+    build:
+      context: D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest
+      dockerfile: services/NoteService/Dockerfile
+      labels:
+        com.microsoft.created-by: visual-studio
+        com.microsoft.visual-studio.project-name: NoteService
+      target: base
+    container_name: noteservice
+    depends_on:
+    - kafka
+    - mongodb
+    entrypoint: tail -f /dev/null
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_HTTPS_PORT: '44301'
+      ASPNETCORE_LOGGING__CONSOLE__DISABLECOLORS: "true"
+      ASPNETCORE_URLS: https://+:443;http://+:80
+      DOTNET_USE_POLLING_FILE_WATCHER: '1'
+      Kafka__BootstrapServers: kafka:9092
+      MongoDB__Host: mongodb
+      MongoDB__Port: 27017
+      NUGET_FALLBACK_PACKAGES: /root/.nuget/fallbackpackages
+    hostname: noteservice
+    image: noteservice:dev
+    labels:
+      com.microsoft.visualstudio.debuggee.arguments: ' --additionalProbingPath /root/.nuget/packages
+        --additionalProbingPath /root/.nuget/fallbackpackages  "/app/bin/Debug/netcoreapp3.1/NoteService.dll"'
+      com.microsoft.visualstudio.debuggee.killprogram: /bin/sh -c "if PID=$$(pidof
+        dotnet); then kill $$PID; fi"
+      com.microsoft.visualstudio.debuggee.program: dotnet
+      com.microsoft.visualstudio.debuggee.workingdirectory: /app
+    ports:
+    - published: 44301
+      target: 443
+    - target: 8082
+    restart: always
+    tty: true
+    volumes:
+    - D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\NoteService:/app:rw
+    - C:\Users\Morph\vsdbg\vs2017u5:/remote_debugger:rw
+    - C:\Users\Morph\AppData\Roaming\ASP.NET\Https:/root/.aspnet/https:ro
+    - C:\Users\Morph\AppData\Roaming\Microsoft\UserSecrets:/root/.microsoft/usersecrets:ro
+    - C:\Program Files\dotnet\sdk\NuGetFallbackFolder:/root/.nuget/fallbackpackages:ro
+    - C:\Users\Morph\.nuget\packages:/root/.nuget/packages:ro
+    - D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest:/src:rw
+  userservice:
+    build:
+      context: D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest
+      dockerfile: services/UserService/Dockerfile
+      labels:
+        com.microsoft.created-by: visual-studio
+        com.microsoft.visual-studio.project-name: UserService
+      target: base
+    container_name: userservice
+    depends_on:
+    - kafka
+    - mongodb
+    entrypoint: tail -f /dev/null
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_HTTPS_PORT: '44300'
+      ASPNETCORE_LOGGING__CONSOLE__DISABLECOLORS: "true"
+      ASPNETCORE_URLS: https://+:443;http://+:80
+      DOTNET_USE_POLLING_FILE_WATCHER: '1'
+      MongoDB__Host: mongodb
+      MongoDB__Port: 27017
+      NUGET_FALLBACK_PACKAGES: /root/.nuget/fallbackpackages
+    hostname: userservice
+    image: userservice:dev
+    labels:
+      com.microsoft.visualstudio.debuggee.arguments: ' --additionalProbingPath /root/.nuget/packages
+        --additionalProbingPath /root/.nuget/fallbackpackages  "/app/bin/Debug/netcoreapp3.1/UserService.dll"'
+      com.microsoft.visualstudio.debuggee.killprogram: /bin/sh -c "if PID=$$(pidof
+        dotnet); then kill $$PID; fi"
+      com.microsoft.visualstudio.debuggee.program: dotnet
+      com.microsoft.visualstudio.debuggee.workingdirectory: /app
+    ports:
+    - published: 8081
+      target: 80
+    - published: 44300
+      target: 443
+    restart: always
+    tty: true
+    volumes:
+    - D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest\services\UserService:/app:rw
+    - C:\Users\Morph\vsdbg\vs2017u5:/remote_debugger:rw
+    - C:\Users\Morph\AppData\Roaming\ASP.NET\Https:/root/.aspnet/https:ro
+    - C:\Users\Morph\AppData\Roaming\Microsoft\UserSecrets:/root/.microsoft/usersecrets:ro
+    - C:\Program Files\dotnet\sdk\NuGetFallbackFolder:/root/.nuget/fallbackpackages:ro
+    - C:\Users\Morph\.nuget\packages:/root/.nuget/packages:ro
+    - D:\Dokumente\SDU\Work\Experimental\dotNetCoreMVCAndMicroservices\MicroservicesTest:/src:rw
+  zookeeper:
+    environment:
+      ALLOW_ANONYMOUS_LOGIN: "yes"
+    image: bitnami/zookeeper:3
+    ports:
+    - published: 2181
+      target: 2181
+    volumes:
+    - zookeeper_data:/bitnami:rw
+version: '3.4'
+volumes:
+  kafka_data:
+    driver: local
+  zookeeper_data:
+    driver: local
